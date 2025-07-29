@@ -1,5 +1,5 @@
 {
-    "name": "jhonoryza/prayer-times",
+    "name": "jhonoryza/geniusts-prayer-times",
     "description": "A PHP package to calculate prayer times",
     "type": "library",
     "require": {
